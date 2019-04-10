@@ -1,5 +1,5 @@
 # Works-with-Python-
-This repository contains all the projects works using python during the "Python" certification course. 
+This repository contains all the project works using python during the "Python" certification course. 
 
 Projects briefing- 
 1. Basic Health of a game - It's a health bar in arcade games where player's health increases according to the diffilty level when the player steps into the life bar.
